@@ -72,8 +72,9 @@ myRent/
 ## ▶️ How to Run
 
 ### 1. Clone the Repository
-git clone [https://github.com/Malavika3026/Rental-Home-Search.git]
-cd Rental-Home-Search
+git clone [https://github.com/Malavika3026/Rental-Home-Search-.git]
+
+cd Rental-Home-Search-
 
 ### 2. Create Virtual Environment
 python -m venv env
