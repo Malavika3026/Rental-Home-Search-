@@ -3,9 +3,9 @@
 ## Overview
 Finding suitable rental accommodation can be time-consuming and inefficient without a centralized platform.
 This project presents a web-based rental home search and booking system that enables users to explore properties, book rentals, and complete payments seamlessly.
-
 The application is built using the Django framework, integrating backend logic, database management, and a responsive frontend.
 It provides a complete workflow from property discovery to booking confirmation, along with an admin interface for managing listings.
+
 ---
 
 ## 🚀 Key Features
@@ -66,6 +66,7 @@ myRent/
 ├── db.sqlite3           → Database
 ├── manage.py
 └── static/              → CSS, JS, Images
+
 ---
 
 ## ▶️ How to Run
@@ -93,6 +94,7 @@ python manage.py runserver
 
 ### 7. python manage.py runserver
 http://127.0.0.1:8000/
+
 ---
 
 ## 📌 Key Insights
